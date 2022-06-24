@@ -1,0 +1,38 @@
+body{
+   
+}
+
+
+.heading-text{
+    font-size: 72px;
+    color:white;
+    background-color: #1c2331;
+
+}
+.sub-heading-text{
+    font-size: 42px;
+    color:white;
+}
+
+.phone-number{
+    font-size: 42px;
+    color:white;
+
+}
+.banner-top{
+    background-color: #7c4dff;
+    height: 300px;
+}
+.banner-img{
+    background-image: url('images/woman.jpg');
+    background-color: #cccccc; /* Used if the image is unavailable */
+    height: 500px; /* You must set a specified height */
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image to cover the entire container */
+}
+
+.footer{
+    background-color: rgb(79, 137, 90);
+    height: 300px;
+}
